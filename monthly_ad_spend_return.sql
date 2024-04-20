@@ -1,0 +1,3 @@
+SELECT *
+FROM fact_spend
+LIMIT 100
